@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+/* Asegura que todos los elementos ocupen el 100% de la pantalla */
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
